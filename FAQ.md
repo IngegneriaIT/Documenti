@@ -17,3 +17,6 @@ Anche in questo caso, non ci interessiamo della domanda e raccomandiamo una rice
 
 ### Ingegneria è davvero difficile come dicono?
 La scelta dell'università è sempre una scelta che va presa con criterio e comporta impegno, passione, sacrifici e sudore, a prescindere dalla facoltà di interesse.
+
+
+Se avete suggerimenti per la FAQ inviate pure una pull request e verrà valutata dallo staff.
