@@ -15,6 +15,9 @@ Reperite le informazioni eslusivamente nel sito del vostro ateneo o rivolgetevi 
 ### Sono indeciso tra l'ateneo x e l'ateneo y.
 Nessuno può giudicare la bontà relativa degli atenei in termini assoluti. Potete trovare varie statistiche, come ad esempio [EA Ranking](https://educationaround.org/ranking-education-around-2019/), che valutano gli atenei sotto alcuni specifici elementi. Nessuno può darvi altre risposte per cui evitate di chiedere pareri ai singoli, sarebbero puramente soggettivi.
 
+### Mi servono conoscenze preliminari per iscrivermi ad ingegneria?
+No, a ingegneria nulla viene dato per scontato. Per cui l'unica abilità necessaria è il saper studiare e il sapersi concentrare, requisiti che si possono anche apprendere, successivamente, durante le ore di studio individuale.
+
 ### Ingegneria è davvero difficile come dicono?
 La scelta dell'università è sempre una scelta che va presa con criterio e comporta impegno, passione, sacrifici e sudore, a prescindere dalla facoltà di interesse.
 
