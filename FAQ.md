@@ -1,6 +1,6 @@
 # FAQ
 
-## FAQ per le matricole
+## Infomrazioni per le matricole e per le future matricole
 Elenchiamo qui le domande che i ragazzi in procinto di iniziare l'università ci pongono più spesso, al fine di non ripetere le solite conversazioni e rendere quindi più interessanti le discussioni del gruppo.
 
 ### Sono indeciso tra la facoltà x e la facoltà y, cosa mi consigliate?
@@ -20,6 +20,33 @@ No, a ingegneria nulla viene dato per scontato. Per cui l'unica abilità necessa
 
 ### Ingegneria è davvero difficile come dicono?
 La scelta dell'università è sempre una scelta che va presa con criterio e comporta impegno, passione, sacrifici e sudore, a prescindere dalla facoltà di interesse.
+
+## Risorse e materiale didattico
+In questa sezione viene raccolto materiale didattico che si può scaricare liberamente online
+
+### Matematiche
+#### Analisi 1
+ - [Gobbino (unipi)](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM1_17.html)
+ 
+#### Analisi 2
+ - [Gobbino (unipi)](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM2_14.html)
+ 
+ #### Alegebra linea\Geometria
+  - [Gobbino (unipi)](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AL_19.html)
+
+### Settore informazione e telecomunicazioni
+#### Fondamenti di programmazione
+ - [Montessoro (uniud)](http://web.diegm.uniud.it/pierluca/public_html/teaching/fpac/materiale_didattico/)
+ - [Libro di testo K&R](https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf)
+
+#### Teoria dei segnali e comunicazioni elettriche
+ - [Rinaldo (uniud)](http://www.diegm.uniud.it/rinaldo/TSCE)
+
+#### Fondamenti di controlli automatici
+ - [Appunti studente (uniud)](http://tameo89.altervista.org/materiale_didattico/fca/dispensa_controlli_automatici_1_e_2.pdf)
+
+#### Reti di calcolatori
+ - [Montessoro (uniud)](http://web.diegm.uniud.it/pierluca/public_html/teaching/reti_di_calcolatori/materiale_didattico/)
 
 
 Se avete suggerimenti per la FAQ inviate pure una pull request e verrà valutata dallo staff.
