@@ -13,7 +13,7 @@ Questa domanda viene posta molto spesso nell'ambito dell'informatica. Anche in q
 Reperite le informazioni eslusivamente nel sito del vostro ateneo o rivolgetevi alla segretria studenti. Inutile chiedere ai membri del gruppo visto che in ogni ateneo è diverso e le cose potrebbero anche essere cambiate da un anno all'altro, nello specifico ateneo.
 
 ### Sono indeciso tra l'ateneo x e l'ateneo y.
-Nessuno può giudicare la bontà relativa degli atenei in termini assoluti. Potete trovare varie statistiche, come ad esempio [EA Ranking](https://educationaround.org/blog/2018/05/15/ea-ranking-2018-ingegneria), che valutano gli atenei sotto alcuni specifici elementi. Nessuno può darvi altre risposte per cui evitate di chiedere pareri ai singoli, sarebbero puramente soggettivi.
+Nessuno può giudicare la bontà relativa degli atenei in termini assoluti. Potete trovare varie statistiche, come ad esempio [EA Ranking](https://educationaround.org/ranking-education-around-2019/), che valutano gli atenei sotto alcuni specifici elementi. Nessuno può darvi altre risposte per cui evitate di chiedere pareri ai singoli, sarebbero puramente soggettivi.
 
 ### Ingegneria è davvero difficile come dicono?
 La scelta dell'università è sempre una scelta che va presa con criterio e comporta impegno, passione, sacrifici e sudore, a prescindere dalla facoltà di interesse.
