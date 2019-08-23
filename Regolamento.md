@@ -7,7 +7,6 @@ Qui, come in ogni canale di discussione che si rispetti, è fondamentale osserva
 
 ## Regolamento per gli studenti
 ### Domande di segreteria
-Il gruppo vuole essere un luogo di raduno tra ingegneri, studenti, e appassionati di ingegneria e non un help desk.
 Prima di porre qualsiasi domanda riguardante scelte di corsi di laurea, informazioni sui corsi e tutto ciò che concerne informazioni di segreteria, assicuratevi di aver letto la [FAQ](FAQ.md).
 
 ### Chiedere aiuto sugli esercizi
