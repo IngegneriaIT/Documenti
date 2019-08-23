@@ -12,7 +12,7 @@ Prima di porre qualsiasi domanda riguardante scelte di corsi di laurea, informaz
 ### Chiedere aiuto sugli esercizi
 E' possibile chiedere aiuto sulla soluzione degli esercizi se:
 - Non riguardano le matematiche del primo anno (Analisi 1, 2, Geometria\Algebra lineare), c'è il gruppo [MatematicaIT](https://t.me/matematicaIT), più adatto a gestire questo genere di domande;
-- Non riguardano le fisiche di base (Fisica 1 e 2), il gruppo si riempirebbe di domande fatte dalle matricole e si abbasserebbe il livello;
+- Non riguardano le fisiche di base (Fisica 1 e 2), il gruppo si riempirebbe di domande di base e si abbasserebbe il livello;
 - Si è provato a risolvere autonomamente l'esercizio e si è sicuri di aver compreso la teoria a riguardo, chiedete informazioni sulla teoria piuttosto che sugli esercizi se è possibile.
 
 Se avete nuove proposte potete fare una pull request con le eventuali modifiche e verrà valutata dallo staff.
