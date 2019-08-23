@@ -10,10 +10,10 @@ L'indecisione la si supera soltanto comprendendo quale delle due università meg
 Questa domanda viene posta molto spesso nell'ambito dell'informatica. Anche in questo caso, una rapida ricerca risolverà certamente questo genere di dubbio, per cui non accettiamo più questa domanda. Se dalla ricerca vi sorge un dubbio specifico, saremo felici di provare a rispondervi.
 
 ### Non so come immatricolarmi, non comprendo il mio orario, non trovo chiaro il sito dell'università o il bando che mi interessa.
-Non affrontiamo questo genere di problemi riguardanti lo specifico ateneo. Raccomandiamo di rivolgersi alla segreteria dell'ateneo. 
+Reperite le informazioni eslusivamente nel sito del vostro ateneo o rivolgetevi alla segretria studenti. Inutile chiedere ai membri del gruppo visto che in ogni ateneo è diverso e le cose potrebbero anche essere cambiate da un anno all'altro, nello specifico ateneo.
 
 ### Sono indeciso tra l'ateneo x e l'ateneo y.
-Anche in questo caso, non ci interessiamo della domanda e raccomandiamo una ricerca sul web. 
+Nessuno può giudicare la bontà relativa degli atenei in termini assoluti. Potete trovare varie statistiche, come ad esempio [EA Ranking](https://educationaround.org/blog/2018/05/15/ea-ranking-2018-ingegneria), che valutano gli atenei sotto alcuni specifici elementi. Nessuno può darvi altre risposte per cui evitate di chiedere pareri ai singoli, sarebbero puramente soggettivi.
 
 ### Ingegneria è davvero difficile come dicono?
 La scelta dell'università è sempre una scelta che va presa con criterio e comporta impegno, passione, sacrifici e sudore, a prescindere dalla facoltà di interesse.
