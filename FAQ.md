@@ -1,6 +1,6 @@
 # FAQ
 
-## Infomrazioni per le matricole e per le future matricole
+## Informazioni per le matricole e per le future matricole
 Elenchiamo qui le domande che i ragazzi in procinto di iniziare l'università ci pongono più spesso, al fine di non ripetere le solite conversazioni e rendere quindi più interessanti le discussioni del gruppo.
 
 ### Sono indeciso tra la facoltà x e la facoltà y, cosa mi consigliate?
